@@ -10,7 +10,7 @@
 <h3 align='center'><strong><a href="https://your-portfolio-url.com" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Web Developer | Full-stack JavaScript Developer | Data Science Enthusiast</p>
 
-<p align='left'> 📫 I am a passionate web developer who enjoys building interactive, user-centric applications. Currently focused on deep learning and backend development while actively working on my project 'Prescripto.' I'm always excited to learn and collaborate on new technologies and projects.</p>
+<p align='left'> 📫 I am a passionate web developer who enjoys building interactive, user-centric applications. Currently focused on frontend and backend development while actively working on my project 'Prescripto.' I'm always excited to learn and collaborate on new technologies and projects.</p>
 
 Programmer specialized in **web development** using multiple **tools, frameworks, and libraries** both in frontend and backend. I focus on creating scalable, high-quality code and efficient solutions.
 
@@ -31,14 +31,13 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Web Development`, `Deep Learning`, `Data Structures and Algorithms`, `Fullstack Development`, `REST APIs`, `Authentication & Authorization`, `Machine Learning`
+`Web Development`, `Data Structures and Algorithms`, `Fullstack Development`, `REST APIs`, `Authentication & Authorization`,
 
 🌍 **Deployment platforms:**<br>
 
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
 
-🚩 **Highlights:** <br>
-&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+
 
 📚 **Currently working on:** <br>
 
