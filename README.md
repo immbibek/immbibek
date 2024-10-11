@@ -2,7 +2,9 @@
 [![Github](https://img.shields.io/github/followers/immbibek?label=Follow%20Me&style=social)](https://github.com/immbibek)
 
 <br>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Bibek%20Chaudhary-blue?logo=Linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/bibekchy/)
+
 [![Mail](https://img.shields.io/badge/Email-bibekchy@gamil.com-red?logo=Gmail&logoColor=white&labelColor=red)](mailto:bibekchy@gamil.com)
 
 
@@ -35,7 +37,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🌍 **Deployment platforms:**<br>
 
-![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?style=flat&logo=github-pages) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
 
 
 
@@ -48,3 +50,10 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ![DevOps](https://img.shields.io/badge/-DevOps-000000?style=flat&logo=devops)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=machine-learning&labelColor=000000)
+
+</br>
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=immbibek" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
+
