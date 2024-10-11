@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Bibek%20Chaudhary-blue?logo=Linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/bibekchy/)
 
-[![Mail](https://img.shields.io/badge/Email-bibekchy@gamil.com-red?logo=Gmail&logoColor=white&labelColor=red)](mailto:bibekchy@gamil.com)
+[![Mail](https://img.shields.io/badge/Email-bibekchy2022@gamil.com-red?logo=Gmail&logoColor=white&labelColor=red)](mailto:bibekchy@gamil.com)
 
 
 <h2 align='center'><samp><strong>Hi there 👋, I'm Bibek Chaudhary</strong></samp></h2>
