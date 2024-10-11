@@ -1,31 +1,51 @@
-<h1 align="center">Hi 👋, I'm Bibek Chaudhary</h1>
-<h3 align="center">A passionate web developer</h3>
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+[![Github](https://img.shields.io/github/followers/immbibek?label=Follow%20Me&style=social)](https://github.com/immbibek)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=immbibek&label=Profile%20views&color=0e75b6&style=flat" alt="immbibek" /> </p>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Bibek%20Chaudhary-blue?logo=Linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/bibekchy/)
+[![Mail](https://img.shields.io/badge/Email-bibekchy@gamil.com-red?logo=Gmail&logoColor=white&labelColor=red)](mailto:bibekchy@gamil.com)
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/XYZ/coding.gif">
 
-- 🔭 I’m currently working on **Prescripto**
+<h2 align='center'><samp><strong>Hi there 👋, I'm Bibek Chaudhary</strong></samp></h2>
+<h3 align='center'><strong><a href="https://your-portfolio-url.com" target="_blank">Portfolio🌐</a></strong></h3>
+<p align='center'>Web Developer | Full-stack JavaScript Developer | Data Science Enthusiast</p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+<p align='left'> 📫 I am a passionate web developer who enjoys building interactive, user-centric applications. Currently focused on deep learning and backend development while actively working on my project 'Prescripto.' I'm always excited to learn and collaborate on new technologies and projects.</p>
 
-- 👯 I’m looking to collaborate on **Web dev Projects**
+Programmer specialized in **web development** using multiple **tools, frameworks, and libraries** both in frontend and backend. I focus on creating scalable, high-quality code and efficient solutions.
 
-- 🤝 I’m looking for help with **DevOps**
+💻 **Languages and Tools:** 🛠️<br>
 
-- 📫 How to reach me **bibekchy2022@gmail.com**
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=ffffff)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-000000?style=flat&logo=cloudinary&labelColor=000000)
+![Bcrypt](https://img.shields.io/badge/-Bcrypt-000000?style=flat&logo=bcrypt&labelColor=000000)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bibek-chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibek chaudhary" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bibekchy2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bibekchy2022" height="30" width="40" /></a>
-</p>
+🧐 **Knowledge of:**<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Add your icons here -->
-</p>
+`Web Development`, `Deep Learning`, `Data Structures and Algorithms`, `Fullstack Development`, `REST APIs`, `Authentication & Authorization`, `Machine Learning`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=immbibek&show_icons=true&locale=en&layout=compact" alt="immbibek" /></p>
+🌍 **Deployment platforms:**<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=immbibek&show_icons=true&locale=en" alt="immbibek" /></p>
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000?style=flat&logo=github-pages) ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
+
+🚩 **Highlights:** <br>
+&nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+
+📚 **Currently working on:** <br>
+
+![Prescripto](https://img.shields.io/badge/-Prescripto-000000?style=flat&logo=react)
+![Auth MERN App](https://img.shields.io/badge/-MERN%20Auth%20App-000000?style=flat&logo=mongodb&logoColor=ffffff)
+
+🤓 **Interested in learning:** <br>
+
+![DevOps](https://img.shields.io/badge/-DevOps-000000?style=flat&logo=devops)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000000?style=flat&logo=machine-learning&labelColor=000000)
